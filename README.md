@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/GersomR-afk/GersomR-afk.svg?style=flat)](http://hits.dwyl.com/GersomR-afk/GersomR-afk)
 
-I'm Gersom, a self-thought developer with experience in Java, Javascript, Node, React, Android, Flutter & C#.
+I'm Gersom, a self-taught developer with experience in Java, Javascript, Node, React, Android, Flutter & C#.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=GersomR-afk&show_icons=true&count_private=true&theme=dark)
 
